@@ -1,4 +1,4 @@
-add branch222 --no-ff
+add branch222 --no-ff  fix bug101
 add branch1
 testtest
 
