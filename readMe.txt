@@ -1,4 +1,4 @@
-branche22222222222222222222222222222 & simple
+branche22222222222222222222222222222 and simple
 
 add branch dev checkout -b afdfasd
 branch branch branch branch  branch branch branch branch branch
